@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/laeragaterastatic/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/alimentacion/</loc>
+		<loc>/laeragaterastatic/category/alimentacion/</loc>
 		<lastmod>2022-05-23T06:58:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/anatomia/</loc>
+		<loc>/laeragaterastatic/category/anatomia/</loc>
 		<lastmod>2022-02-14T20:56:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/arte/</loc>
+		<loc>/laeragaterastatic/category/arte/</loc>
 		<lastmod>2021-12-26T14:10:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/cuidados/</loc>
+		<loc>/laeragaterastatic/category/cuidados/</loc>
 		<lastmod>2022-05-23T06:58:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/curiosidades/</loc>
+		<loc>/laeragaterastatic/category/curiosidades/</loc>
 		<lastmod>2023-01-15T23:16:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/etologia/</loc>
+		<loc>/laeragaterastatic/category/etologia/</loc>
 		<lastmod>2022-03-14T19:45:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/felinos/</loc>
+		<loc>/laeragaterastatic/category/felinos/</loc>
 		<lastmod>2022-02-28T20:44:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/patologias/</loc>
+		<loc>/laeragaterastatic/category/patologias/</loc>
 		<lastmod>2022-05-23T06:58:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/reflexiones/</loc>
+		<loc>/laeragaterastatic/category/reflexiones/</loc>
 		<lastmod>2022-01-12T07:14:49+00:00</lastmod>
 	</url>
 </urlset>

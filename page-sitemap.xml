@@ -1,297 +1,297 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/laeragaterastatic/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>/laeragaterastatic/</loc>
 	</url>
 	<url>
-		<loc>/referencias/</loc>
+		<loc>/laeragaterastatic/referencias/</loc>
 		<lastmod>2016-04-28T18:31:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/citas-gatunas/</loc>
+		<loc>/laeragaterastatic/citas-gatunas/</loc>
 		<lastmod>2016-07-12T13:30:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vinetas/</loc>
+		<loc>/laeragaterastatic/vinetas/</loc>
 		<lastmod>2019-06-26T07:43:18+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/06/IMG_2829.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2019/06/IMG_2829.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/02/IMG_0477.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2019/02/IMG_0477.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/02/IMG_0467.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2019/02/IMG_0467.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/02/IMG_0376.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2019/02/IMG_0376.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/11/image1.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2018/11/image1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/07/IMG_6935.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2018/07/IMG_6935.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/03/IMG_4435.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2018/03/IMG_4435.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/03/28337586_1485611754895308_1925507485991830680_o.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2018/03/28337586_1485611754895308_1925507485991830680_o.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/03/IMG_3412.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2018/03/IMG_3412.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/15800471_1170884312988060_7589303411213486895_o.jpg.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/15800471_1170884312988060_7589303411213486895_o.jpg.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/22049956_1131466180286701_635069412957146032_n.jpg.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/22049956_1131466180286701_635069412957146032_n.jpg.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/21994197_1128870460546273_5860287158704302740_o.jpg.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/21994197_1128870460546273_5860287158704302740_o.jpg.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/20045604_1356354634441026_9021968178187974572_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/20045604_1356354634441026_9021968178187974572_o.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/19390838_1336031006473389_7502549022413630059_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/19390838_1336031006473389_7502549022413630059_o.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_3852.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_3852.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/19488821_1340837105992779_311943379867346771_o.jpg.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/19488821_1340837105992779_311943379867346771_o.jpg.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_3615.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_3615.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/18118505_1007702152663105_1362083674887864185_n.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/18118505_1007702152663105_1362083674887864185_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/15896080_1174093686000456_3624866884020975901_o.jpg.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/15896080_1174093686000456_3624866884020975901_o.jpg.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/16177922_1183632178379940_5614817511875914236_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/16177922_1183632178379940_5614817511875914236_o.jpg</image:loc>
 			<image:caption><![CDATA[16177922_1183632178379940_5614817511875914236_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_0066.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_0066.jpg</image:loc>
 			<image:caption><![CDATA[IMG_0066]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/16716060_1122621391194348_8057613542932713467_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/16716060_1122621391194348_8057613542932713467_o.jpg</image:loc>
 			<image:caption><![CDATA[16716060_1122621391194348_8057613542932713467_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_2247.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_2247.jpg</image:loc>
 			<image:caption><![CDATA[IMG_2247]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/16665111_1211949402214884_5943744176616848069_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/16665111_1211949402214884_5943744176616848069_o.jpg</image:loc>
 			<image:caption><![CDATA[16665111_1211949402214884_5943744176616848069_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/15732716_918861578213830_2958968228496079753_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/15732716_918861578213830_2958968228496079753_o.jpg</image:loc>
 			<image:caption><![CDATA[15732716_918861578213830_2958968228496079753_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/15419606_909904492442872_5180421273892047821_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/15419606_909904492442872_5180421273892047821_o.jpg</image:loc>
 			<image:caption><![CDATA[15419606_909904492442872_5180421273892047821_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_1142.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_1142.jpg</image:loc>
 			<image:caption><![CDATA[img_1142]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/14362666_973462062776949_8620542147234244787_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/14362666_973462062776949_8620542147234244787_o.jpg</image:loc>
 			<image:caption><![CDATA[14362666_973462062776949_8620542147234244787_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/14188537_824244291008893_2305959094057449365_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/14188537_824244291008893_2305959094057449365_o.jpg</image:loc>
 			<image:caption><![CDATA[14188537_824244291008893_2305959094057449365_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/13668802_934189676704188_4161526885096953501_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/13668802_934189676704188_4161526885096953501_o.jpg</image:loc>
 			<image:caption><![CDATA[13668802_934189676704188_4161526885096953501_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_1377.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_1377.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_1377]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_0006.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_0006.jpg</image:loc>
 			<image:caption><![CDATA[IMG_0006]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/13731765_925409140915575_4003185357192235622_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/13731765_925409140915575_4003185357192235622_o.jpg</image:loc>
 			<image:caption><![CDATA[13731765_925409140915575_4003185357192235622_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/13662107_924743734315449_3367301272715375853_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/13662107_924743734315449_3367301272715375853_o.jpg</image:loc>
 			<image:caption><![CDATA[13662107_924743734315449_3367301272715375853_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/13521869_910792255710597_8808308406290739538_n.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/13521869_910792255710597_8808308406290739538_n.jpg</image:loc>
 			<image:caption><![CDATA[13521869_910792255710597_8808308406290739538_n]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/12976731_867249656731524_2189039719860893454_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/12976731_867249656731524_2189039719860893454_o.jpg</image:loc>
 			<image:caption><![CDATA[12976731_867249656731524_2189039719860893454_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_6274.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_6274.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_6274]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/12794494_739008352865821_2577481235206269558_n.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/12794494_739008352865821_2577481235206269558_n.jpg</image:loc>
 			<image:caption><![CDATA[12794494_739008352865821_2577481235206269558_n]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/la-foto.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/la-foto.jpg</image:loc>
 			<image:caption><![CDATA[la foto]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_8105.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_8105.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_8105]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/12314708_794178167372007_8875969502904220015_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/12314708_794178167372007_8875969502904220015_o.jpg</image:loc>
 			<image:caption><![CDATA[12314708_794178167372007_8875969502904220015_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_5504.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_5504.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_5504]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/12471379_808864705903353_9137393293931912193_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/12471379_808864705903353_9137393293931912193_o.jpg</image:loc>
 			<image:caption><![CDATA[12471379_808864705903353_9137393293931912193_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/980482_808344349288722_438719197153281946_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/980482_808344349288722_438719197153281946_o.jpg</image:loc>
 			<image:caption><![CDATA[980482_808344349288722_438719197153281946_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_9415.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_9415.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_9415]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/IMG_5753.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/IMG_5753.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_5753]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/12189781_692123650887625_4156101036340047160_n.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/12189781_692123650887625_4156101036340047160_n.jpg</image:loc>
 			<image:caption><![CDATA[12189781_692123650887625_4156101036340047160_n]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/10917129_637188703070955_2094317241413103775_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/10917129_637188703070955_2094317241413103775_o.jpg</image:loc>
 			<image:caption><![CDATA[10917129_637188703070955_2094317241413103775_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/08/11844932_846371725439322_3548795854807876347_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/08/11844932_846371725439322_3548795854807876347_o.jpg</image:loc>
 			<image:caption><![CDATA[11844932_846371725439322_3548795854807876347_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/08/11791908_845970298812798_7574784794792138428_o.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/08/11791908_845970298812798_7574784794792138428_o.jpg</image:loc>
 			<image:caption><![CDATA[11791908_845970298812798_7574784794792138428_o]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/07/10645019_653773548055969_6782136919015168701_n.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/07/10645019_653773548055969_6782136919015168701_n.jpg</image:loc>
 			<image:caption><![CDATA[10645019_653773548055969_6782136919015168701_n]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/07/img_9730.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/07/img_9730.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_9730]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/07/img_1782.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/07/img_1782.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_1782]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/07/attachment-1.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/07/attachment-1.jpeg</image:loc>
 			<image:caption><![CDATA[Attachment-1]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/06/img_0293.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/06/img_0293.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_0293]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/06/img_5393.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/06/img_5393.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_5393]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/06/img_6776.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/06/img_6776.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_6776]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/06/img_6216.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/06/img_6216.jpeg</image:loc>
 			<image:caption><![CDATA[IMG_6216]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/06/11393190_818944674848694_905450040848505115_n.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/06/11393190_818944674848694_905450040848505115_n.jpg</image:loc>
 			<image:caption><![CDATA[11393190_818944674848694_905450040848505115_n]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/image1.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/image1.jpg</image:loc>
 			<image:caption><![CDATA[image]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/image.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/image.jpg</image:loc>
 			<image:caption><![CDATA[image]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/la-foto-4.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/la-foto-4.jpg</image:loc>
 			<image:caption><![CDATA[la foto 4]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/la-foto-3.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/la-foto-3.jpg</image:loc>
 			<image:caption><![CDATA[la foto 3]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/la-foto-5.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/la-foto-5.jpg</image:loc>
 			<image:caption><![CDATA[la foto 5]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/la-foto-1.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/la-foto-1.jpg</image:loc>
 			<image:caption><![CDATA[la foto 1]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2015/05/la-foto-2.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2015/05/la-foto-2.jpg</image:loc>
 			<image:caption><![CDATA[la foto 2]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>/contacto/</loc>
+		<loc>/laeragaterastatic/contacto/</loc>
 		<lastmod>2020-11-13T11:34:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/consulta-veterinaria/</loc>
+		<loc>/laeragaterastatic/consulta-veterinaria/</loc>
 		<lastmod>2020-12-19T11:53:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/nosotras/</loc>
+		<loc>/laeragaterastatic/nosotras/</loc>
 		<lastmod>2021-07-08T19:32:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/11/IMG_4111-1-scaled.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2020/11/IMG_4111-1-scaled.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/03/fotoAlicia.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2019/03/fotoAlicia.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2014/04/la-foto-21.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2014/04/la-foto-21.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/11/60a1ee86-3195-40da-ad8f-b49816b9b8bf.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2018/11/60a1ee86-3195-40da-ad8f-b49816b9b8bf.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2014/04/IMG_20160302_164809.jpg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2014/04/IMG_20160302_164809.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/Jorge-Hernando.jpeg</image:loc>
+			<image:loc>/laeragaterastatic/wp-content/uploads/2021/07/Jorge-Hernando.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/charlas/</loc>
+		<loc>/laeragaterastatic/charlas/</loc>
 		<lastmod>2021-12-19T16:47:10+00:00</lastmod>
 	</url>
 </urlset>
