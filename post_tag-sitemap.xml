@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/laeragaterastatic/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/laeragaterastatic/tag/alimentacion/</loc>
+		<loc>/tag/alimentacion/</loc>
 		<lastmod>2022-05-23T06:58:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/anatomia/</loc>
+		<loc>/tag/anatomia/</loc>
 		<lastmod>2022-02-14T20:56:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/arte/</loc>
+		<loc>/tag/arte/</loc>
 		<lastmod>2021-12-26T14:10:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/comportamiento/</loc>
+		<loc>/tag/comportamiento/</loc>
 		<lastmod>2020-12-11T09:50:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/cuidados/</loc>
+		<loc>/tag/cuidados/</loc>
 		<lastmod>2022-05-23T06:58:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/curiosidades/</loc>
+		<loc>/tag/curiosidades/</loc>
 		<lastmod>2023-01-15T23:16:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/enriquecimiento-ambiental/</loc>
+		<loc>/tag/enriquecimiento-ambiental/</loc>
 		<lastmod>2020-12-11T09:26:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/etologia/</loc>
+		<loc>/tag/etologia/</loc>
 		<lastmod>2022-03-14T19:45:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/felinos/</loc>
+		<loc>/tag/felinos/</loc>
 		<lastmod>2022-02-28T20:44:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/gatos/</loc>
+		<loc>/tag/gatos/</loc>
 		<lastmod>2023-01-15T23:16:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/patologias/</loc>
+		<loc>/tag/patologias/</loc>
 		<lastmod>2022-05-23T06:58:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/reflexiones/</loc>
+		<loc>/tag/reflexiones/</loc>
 		<lastmod>2022-01-12T07:14:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/reproduccion/</loc>
+		<loc>/tag/reproduccion/</loc>
 		<lastmod>2020-12-11T09:43:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/laeragaterastatic/tag/salud/</loc>
+		<loc>/tag/salud/</loc>
 		<lastmod>2020-12-16T19:19:29+00:00</lastmod>
 	</url>
 </urlset>
